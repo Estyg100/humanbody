@@ -1,3 +1,5 @@
-create database humanbodyDB
+drop database if exists HumanbodyDB
 go
-using humanbodyDB
+create database HumanbodyDB
+go
+use humanbodyDB
